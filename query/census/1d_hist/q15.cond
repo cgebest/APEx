@@ -1,0 +1,11 @@
+age<=10
+10<age and age<=20
+20<age and age<=30
+30<age and age<=40
+40<age and age<=50
+50<age and age<=60
+60<age and age<=70
+70<age and age<=80
+80<age and age<=90
+90<age and age<=100
+100<age

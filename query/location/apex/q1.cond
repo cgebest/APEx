@@ -1,0 +1,14 @@
+trip_distance=0
+trip_distance>0 and trip_distance<=0.5
+trip_distance>0.5 and trip_distance<=1
+trip_distance>1.5 and trip_distance<=2
+trip_distance>2 and trip_distance<=2.5
+trip_distance>2.5 and trip_distance<=3
+trip_distance>3 and trip_distance<=3.5
+trip_distance>3.5 and trip_distance<=4
+trip_distance>4 and trip_distance<=4.5
+trip_distance>4.5 and trip_distance<=5
+trip_distance>5 and trip_distance<=5.5
+trip_distance>5.5 and trip_distance<=6
+trip_distance>6 and trip_distance<=6.5
+trip_distance>6.5 and trip_distance<=7

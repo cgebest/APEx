@@ -1,0 +1,12 @@
+capgain=0
+capgain>0 and capgain<=10000
+capgain>10000 and capgain<=20000
+capgain>20000 and capgain<=30000
+capgain>30000 and capgain<=40000
+capgain>40000 and capgain<=50000
+capgain>50000 and capgain<=60000
+capgain>60000 and capgain<=70000
+capgain>70000 and capgain<=80000
+capgain>80000 and capgain<=90000
+capgain>90000 and capgain<=100000
+capgain>100000

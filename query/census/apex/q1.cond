@@ -1,0 +1,11 @@
+capgain=0
+capgain>0 and capgain<=1000
+capgain>1000 and capgain<=2000
+capgain>2000 and capgain<=3000
+capgain>3000 and capgain<=4000
+capgain>4000 and capgain<=5000
+capgain>5000 and capgain<=6000
+capgain>6000 and capgain<=7000
+capgain>7000 and capgain<=8000
+capgain>8000 and capgain<=9000
+capgain>9000 and capgain<=10000

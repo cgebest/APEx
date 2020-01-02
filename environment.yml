@@ -1,0 +1,9 @@
+name: apex 
+channels:
+  - conda-forge
+dependencies:
+  - mysql-connector-python
+  - numpy
+  - scikit-learn
+  
+

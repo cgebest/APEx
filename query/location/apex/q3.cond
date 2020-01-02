@@ -1,0 +1,18 @@
+trip_distance=0 and passenger_count = 1
+trip_distance=0 and passenger_count = 2
+trip_distance=0 and passenger_count = 3
+trip_distance>0 and trip_distance<=0.5 and passenger_count = 1
+trip_distance>0 and trip_distance<=0.5 and passenger_count = 2
+trip_distance>0 and trip_distance<=0.5 and passenger_count = 3
+trip_distance>0.5 and trip_distance<=1 and passenger_count = 1
+trip_distance>0.5 and trip_distance<=1 and passenger_count = 2
+trip_distance>0.5 and trip_distance<=1 and passenger_count = 3
+trip_distance>1.5 and trip_distance<=2 and passenger_count = 1
+trip_distance>1.5 and trip_distance<=2 and passenger_count = 2
+trip_distance>1.5 and trip_distance<=2 and passenger_count = 3
+trip_distance>2 and trip_distance<=2.5 and passenger_count = 1
+trip_distance>2 and trip_distance<=2.5 and passenger_count = 2
+trip_distance>2 and trip_distance<=2.5 and passenger_count = 3
+trip_distance>2.5 and trip_distance<=3 and passenger_count = 1
+trip_distance>2.5 and trip_distance<=3 and passenger_count = 2
+trip_distance>2.5 and trip_distance<=3 and passenger_count = 3
